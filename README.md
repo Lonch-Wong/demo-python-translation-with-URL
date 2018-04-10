@@ -151,5 +151,6 @@ File菜单栏New 一个 File
 # 6.常见问题 #
 1. 没有找到translate拦截到的界面：有道词典要进入到自动翻译的页面，否则会出现找不到拦截界面的情况。
 2. 无法找到Form Data表单数据：找到Network的标签，再找到translate拦截界面，拉到底部可查看Form Data表单数据
-3. 运行时出现"errorCode":50错误：从网页上URL复制的地址内容要删除_o，例：url = 'http://fanyi.youdao.com/translate_o?smartresult=dict&smartresult=rule'
+3. 运行时出现"errorCode":50错误：从网页上URL复制的地址内容要删除_o，
+例：url = 'http://fanyi.youdao.com/translate_o?smartresult=dict&smartresult=rule'
 4. Json Decode Error错误：这个错误出现原因是非Json符合引用，参考自身网页正确的Form Data表单数据
