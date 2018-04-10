@@ -112,7 +112,7 @@ File菜单栏New 一个 File
 ### 可以看到运行结果已经出来了 ###
 
 # 5.优化代码 #
-### 旧终端： ###
+### 在旧终端优化： ###
     import urllib.request
     import urllib.parse
     import json 					#增加代码处
