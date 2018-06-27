@@ -1,4 +1,4 @@
-# demo-python-requests-webpage-json-with-image #
+# demo-python-translation-with-URL #
 # 1.开发环境配置 #
 安装Python3.0+
 
